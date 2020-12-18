@@ -9,7 +9,7 @@ This is my first attempt at building a page on github. I'll be using this page a
 
 # Reviews
 
-[zcal - a much needed free alternative to Doodle](http://blogs.bu.edu/mikipeng/2020/08/09/a-doodle-alternative/)
+[zcal - a delightful (free) alternative to Doodle](http://blogs.bu.edu/mikipeng/2020/08/09/a-doodle-alternative/)
 
 # Twitter timeline widget
 
