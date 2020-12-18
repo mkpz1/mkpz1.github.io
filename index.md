@@ -10,8 +10,8 @@ This is my first attempt at building a page on github. I'll be using this page a
 
 # Twitter timeline widget
 
-<a class="twitter-timeline" href="https://twitter.com/TechCrunch?ref_src=twsrc%5Etfw">Tweets by TechCrunch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="500" data-height="1000" href="https://twitter.com/TechCrunch?ref_src=twsrc%5Etfw">Tweets by TechCrunch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Facebook page widget
 
-<div class="fb-page" data-href="https://www.facebook.com/techcrunch" data-tabs="timeline" data-width="500" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/techcrunch" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/techcrunch">TechCrunch</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/techcrunch" data-tabs="timeline" data-width="500" data-height="1000" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/techcrunch" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/techcrunch">TechCrunch</a></blockquote></div>
